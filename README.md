@@ -37,8 +37,11 @@ In this task, average of random 100 samples is taken from the 1000 samples witho
 
  ### Histogram - Average of 100 samples in Poisson distribution
  
-![picture](https://github.com/d4rshik/SCIT-Task/blob/master/SCIT/plots/abc_poission_average.png)
+  ![picture](https://github.com/d4rshik/SCIT-Task/blob/master/SCIT/plots/abc_poisson_average.png)
+
 
  ### Histogram - Average of 100 samples in Normal distribution
  
-![picture](https://github.com/d4rshik/SCIT-Task/blob/master/SCIT/plots/def_normal_average.png)
+  ![picture](https://github.com/d4rshik/SCIT-Task/blob/master/SCIT/plots/def_normal_average.png)
+
+The mean and standard deviation for this graph is 100 and 1 (default scale). Here in the different distributions of both poission and normal we can see that the mean and the average are similar.
