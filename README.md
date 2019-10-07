@@ -2,8 +2,8 @@
 
 Following libraries are imported for the task
 
-* Numpy
-* Matplotlib
+* Numpy (https://numpy.org)
+* Matplotlib (https://matplotlib.org)
 
 ## Question 1
 
